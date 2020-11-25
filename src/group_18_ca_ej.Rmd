@@ -26,4 +26,11 @@ ggplot() +
   theme_minimal()
   
 ```
+As percent white population increases, CalEnviroScreen 3.0 Score decreases. 
+
+
+
+
+
+
 
